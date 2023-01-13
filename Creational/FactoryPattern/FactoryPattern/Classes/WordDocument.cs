@@ -6,7 +6,7 @@ namespace FactoryPattern.Classes
     {
         public void OpenFile(string filePath)
         {
-            // Data read logic specific to Word
+            // File read logic specific to Word
         }
 
         public void ProcessData()

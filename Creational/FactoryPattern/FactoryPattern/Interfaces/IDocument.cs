@@ -1,6 +1,4 @@
-﻿using System.Data;
-
-namespace FactoryPattern.Interfaces
+﻿namespace FactoryPattern.Interfaces
 {
     public interface IDocument
     {

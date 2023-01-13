@@ -6,7 +6,7 @@ namespace FactoryPattern.Classes
     {
         public void OpenFile(string filePath)
         {
-            // Data read logic specific to Excel
+            // File read logic specific to Excel
         }
 
         public void ProcessData()
